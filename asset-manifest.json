@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dc79b13f.css",
-    "main.js": "/portfolio/static/js/main.f2ea32c1.js",
+    "main.js": "/portfolio/static/js/main.3eb8cb65.js",
     "static/media/me.png": "/portfolio/static/media/me.82ff946dbde5f89dfaa5.png",
     "static/media/linkedin2.svg": "/portfolio/static/media/linkedin2.13545d7e7d1e88d95648ac71692d791b.svg",
     "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.dc79b13f.css",
-    "static/js/main.f2ea32c1.js"
+    "static/js/main.3eb8cb65.js"
   ]
 }
