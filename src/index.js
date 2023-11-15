@@ -84,7 +84,7 @@ const LinkList = () => {
 
 const Link = (props) => {
   return (  
-      <a href="https://www.linkedin.com/in/zijie-luo12/" className="bottom" style={{background: props.color}}> 
+      <a href="https://www.linkedin.com/in/zijie-luo12/" target="_blank" className="bottom" style={{background: props.color}}> 
         <span> {props.icon}</span>
         <span> {props.link}</span>
       </a>  
